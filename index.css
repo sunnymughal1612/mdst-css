@@ -1,0 +1,133 @@
+body{
+    background-color: whitesmoke;
+    size: cover;
+}
+.d1{
+    border-radius: 100px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0%;
+    color: black;
+    font-size: 15px;
+}
+
+.nav{
+    gap: 20px;
+    display: flex;
+    padding-left: 42%;
+    font-size: 25px;
+    word-spacing: 4px;
+    list-style-type: none;
+    color: black;
+    
+}
+.one{
+    padding-left: 15%;
+    padding-right: 20%;
+    height: 30%;
+    width: 70%;
+
+}
+.thr{
+    padding-left: 15%;
+    padding-right: 40%;
+    height: 70%;
+    width: 50%;
+}
+
+.p{
+    padding-left: 5%;
+    color: black;
+    font-size: 20px;
+    padding-top: 5%;
+    
+}
+.label{
+    padding-left: 3%;
+    height: 50px;
+    width: 24%;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.button{
+    background-color: lightslategray;
+    color: white;
+    height: 54px;
+    width: 8%;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.in{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.icons{
+    
+    display: flex;
+    margin-left: 100%;
+    grid-area: 10px;
+    justify-content: flex-end;
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    gap: 20px;
+    margin-bottom: 0%;
+    
+}
+.f{
+    margin-top: 5%;
+    background-color: silver;
+}
+.foot{
+    margin-block: 5%;
+    margin-left: 5%;
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    margin-bottom: 0%;
+}
+.in{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    border-radius: 100px;
+}
+
+.icons{
+    
+    display: flex;
+    margin-left: 80%;
+    grid-area: 10px;
+    justify-content: flex-end;
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    gap: 20px;
+    margin-bottom: 0%;
+    
+}
+.f{
+    
+    background-color: whitesmoke;
+}
+.foot{
+    margin-block: 5%;
+    margin-left: 5%;
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    margin-bottom: 0%;
+    height: 100px;
+}
+.ff{
+    margin-top: 10%;
+}
+
+
